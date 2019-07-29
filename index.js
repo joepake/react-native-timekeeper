@@ -1,14 +1,10 @@
-// @flow
-import * as React from 'react';
+import React from "react";
 import {
-  Platform,
   Animated,
   Easing,
   NativeModules,
-  Text,
   TouchableOpacity,
   View,
-  ViewPropTypes,
 } from 'react-native';
 
 import TextTimeComponent from './timerText';
