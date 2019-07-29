@@ -7,7 +7,7 @@
   "author": "Yamil Díaz Aguirre <yamilquery@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "react": "^15.6.1",
-    "react-native": "^0.47.1"
+    "react": "16.6.3",
+    "react-native": "0.58.4",
   }
 }
